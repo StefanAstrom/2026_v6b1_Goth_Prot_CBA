@@ -1,0 +1,61 @@
+﻿Health impacts of ground-level ozone,,,,
+Scenario: ECLIPSE_V6b_CLE_base,,,,
+Region: ,,,,
+Year: 2020,,,,
+"Unit: ,ppb.days,cases,cases",,,,
+UserID: StefanA,,,,
+,,,,
+,,SOMO35 [ppb.days],Premature deaths [cases], Premature deaths static [cases]
+EU27 ,Austria,3194,603,550
+EU27 ,Belgium,1829.7,459,433
+EU27 ,Bulgaria,3068.5,741,768
+EU27 ,Croatia,3155.2,379,365
+EU27 ,Cyprus,4077.1,76,66
+EU27 ,Czech Republic,2604,661,623
+EU27 ,Denmark,1323,162,164
+EU27 ,Estonia,830.8,30,32
+EU27 ,Finland,776,94,86
+EU27 ,France,2188.5,2877,2623
+EU27 ,Germany,2278.1,4750,4297
+EU27 ,Greece,3365.5,912,801
+EU27 ,Hungary,2906.3,818,860
+EU27 ,Ireland,1219.1,86,77
+EU27 ,Italy,4372.6,6151,5650
+EU27 ,Latvia,984.2,65,71
+EU27 ,Lithuania,1230.6,114,125
+EU27 ,Luxembourg,2435.6,23,22
+EU27 ,Malta,3610.6,31,27
+EU27 ,Netherlands,1470.6,489,448
+EU27 ,Poland,2041,1826,1712
+EU27 ,Portugal,2420,606,566
+EU27 ,Romania,2782.9,1589,1626
+EU27 ,Slovak Republic,2778.7,341,332
+EU27 ,Slovenia,3189.4,146,133
+EU27 ,Spain,3141.2,2981,2726
+EU27 ,Sweden,1018.1,206,209
+EU27 Total,,2612.3,27216,25393
+NON EU27 ,Albania,3691.1,186,167
+NON EU27 ,Armenia,4602.9,292,292
+NON EU27 ,Azerbaijan,2512.5,385,330
+NON EU27 ,Belarus,1187.8,338,385
+NON EU27 ,Bosnia and Herzegovina,3095.9,274,244
+NON EU27 ,Georgia,2497.1,287,282
+NON EU27 ,Iceland,1345.6,7,6
+NON EU27 ,Kazakhstan,2399.2,869,890
+NON EU27 ,Kosovo,3646.3,67,68
+NON EU27 ,Kyrgyzstan,4503.2,387,406
+NON EU27 ,North Macedonia,4198.5,194,181
+NON EU27 ,Republic of Moldova,2520.6,266,283
+NON EU27 ,Montenegro,3532.3,50,51
+NON EU27 ,Norway,1139,107,107
+NON EU27 ,Russia European part,1322.2,4303,4698
+NON EU27 ,Serbia,2942.5,683,690
+NON EU27 ,Switzerland,3349.9,511,460
+NON EU27 ,Tajikistan,5249,543,488
+NON EU27 ,Turkmenistan,3406.3,312,274
+NON EU27 ,Turkey,3419.8,3621,3174
+NON EU27 ,Ukraine,2197.6,3233,3710
+NON EU27 ,United Kingdom,1261.7,1690,1637
+NON EU27 ,Uzbekistan,3916,1657,1502
+NON EU27 Total,,2392.1,20260,20325
+Total,,2502.9,47476,45717
