@@ -1,11 +1,12 @@
-# CBA_GBG_PROT
+# 2026_Goth_Prot_CBA
 This depository contains the tables and python code used to calculate the costs and benefits of emission control scenarios discussed in the Air Convention as of January 2026
 
 ## Licencing
 
-This material has been produced during the realization of the project funded by the Nordic Council of Ministers.
+This material has been produced during the realization of the project funded by the Nordic Council of Ministers. The project has been led by Stefan Åström from the UNECE Air Convention Task Force on Integrated Assessment Modelling (TFIAM) and Anthesis AB. Project collaborators have been Krister Mars & Lovisa Årebäck from Anthesis AB, Henrik Lindhjem & Ståle Navrud from Menon Economics, Jesper Bak from the Air Convention Working Group on Effects (WGE) and Aarhus University), and Mike Holland from Econometrics Research Consultants (EMRC). 
+ 
 
-*CBA GBG Protocol 2026  © 2026 by Nordic Council of Ministers is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/*
+*CBA GBG Protocol 2026  © 2026 by Stefan Åström, Lovisa Årebäck, Krister Mars, Henrik Lindhjem, Ståle Navrud, Mike Holland and Jesper Bak, is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/*
 
 
 
